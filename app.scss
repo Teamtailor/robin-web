@@ -1,5 +1,10 @@
 $background-color: #FFA9A2;
 
+.robin {
+  height: 60vh;
+  max-height: 100%
+}
+
 .hero {
   &.is-success {
     background-color: $background-color;
