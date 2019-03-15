@@ -1,1 +1,7 @@
+$background-color: #FFA9A2;
 
+.hero {
+  &.is-success {
+    background-color: $background-color;
+  }
+}
