@@ -1,0 +1,15 @@
+{
+  "name": "robin-web",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.2",
+    "sass": "^1.17.2"
+  },
+  "toolchain": {
+    "node": "10.15.3",
+    "yarn": "1.15.1"
+  }
+}
